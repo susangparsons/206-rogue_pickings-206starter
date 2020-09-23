@@ -194,7 +194,7 @@ footer span {
 }
 
 /* ----------- Monitors larger than 1200px wide ----------- */
-@media (min-width: 1025px) {
+@media (min-width: 1200px) {
 	header {
 		display: flex;
 		justify-content: space-between;
